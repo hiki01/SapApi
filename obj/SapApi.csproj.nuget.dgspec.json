@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victus\\RiderProjects\\SapApi\\SapApi.csproj": {}
+    "C:\\Users\\Victus\\Documents\\GitHub\\SapApi\\SapApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victus\\RiderProjects\\SapApi\\SapApi.csproj": {
+    "C:\\Users\\Victus\\Documents\\GitHub\\SapApi\\SapApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victus\\RiderProjects\\SapApi\\SapApi.csproj",
+        "projectUniqueName": "C:\\Users\\Victus\\Documents\\GitHub\\SapApi\\SapApi.csproj",
         "projectName": "SapApi",
-        "projectPath": "C:\\Users\\Victus\\RiderProjects\\SapApi\\SapApi.csproj",
+        "projectPath": "C:\\Users\\Victus\\Documents\\GitHub\\SapApi\\SapApi.csproj",
         "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victus\\RiderProjects\\SapApi\\obj\\",
+        "outputPath": "C:\\Users\\Victus\\Documents\\GitHub\\SapApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
