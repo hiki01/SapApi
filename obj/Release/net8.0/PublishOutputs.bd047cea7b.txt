@@ -1,0 +1,9 @@
+C:\Users\Victus\Documents\GitHub\SapApi\publish\SapApi.exe
+C:\Users\Victus\Documents\GitHub\SapApi\publish\appsettings.Development.json
+C:\Users\Victus\Documents\GitHub\SapApi\publish\appsettings.json
+C:\Users\Victus\Documents\GitHub\SapApi\publish\SapApi.dll
+C:\Users\Victus\Documents\GitHub\SapApi\publish\SapApi.deps.json
+C:\Users\Victus\Documents\GitHub\SapApi\publish\SapApi.runtimeconfig.json
+C:\Users\Victus\Documents\GitHub\SapApi\publish\SapApi.pdb
+C:\Users\Victus\Documents\GitHub\SapApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Victus\Documents\GitHub\SapApi\publish\Microsoft.OpenApi.dll
